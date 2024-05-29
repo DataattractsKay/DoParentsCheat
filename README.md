@@ -1,6 +1,6 @@
 # Do Parents Talk to Boys and Girls Differently During Play?
 
-![Banner](Banner.png)
+![Banner](Images.png)
 
 
 ## Introduction
